@@ -1,0 +1,40 @@
+DDP 05-09-2023
+
+a_b = T (underscore)
+a-b = F (hypen) (substraction)
+
+print() -> bare print, print kosong
+
+
+hal 01.35:
+semisal kita masukin angka 27 di kotaknya angka 27 bukan di kotaknya tapi di lingkeran garis panah
+
+01.37:
+lhs = left hand side
+rhs = right hand side    
+
+01.43:
+i = j
+3 + 8j
+35 - 2j
+_________+
+38 + 6j    
+
+01.48:
+int(2.1) → 2, int('2') → 2, but int('2.1') fails
+                       
+01.51:
+floor 
+[2.0] = 2
+[2.1] = 2
+[-2.1] = -3
+[-3.9] = -4           
+
+7//3 = 2
+
+01.52:
+Modulus
+5%3 = 2
+9%3 = 0
+3%5 = 3
+6%9 = 6                        

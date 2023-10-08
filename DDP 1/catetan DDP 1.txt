@@ -1,0 +1,23 @@
+kenapa python? karena lebih mudah dibanding bahasa pemrogramman lain.
+Simpler means:
+ Fewer alternatives (one way to do it)
+ Better alternatives (easier to accomplish common
+tasks).
+Best Practices:
+ Many of the best parts of other languages are included in Python
+ data structures (lists, dictionaries)
+ control (iteration, exceptions)
+ many packages (libraries) for common tasks
+User base:
+ Python is Open Source:
+ freely available
+ large user base, constantly contributing
+ new packages available to meet changing needs
+
+
+COMPUTAL THINKING
+consist of four components:
+1. Abstraction: ignore 
+2. Decomposition: dipecah jadi kecil lalu di solve problem kecil itu.
+3. Pattern recognition: setelah dipecah lalu diberi pola lalu cari solusi untuk pola tersebut
+4. Algorithm design: design step-by-step instructions on how to carry out a task
